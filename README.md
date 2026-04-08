@@ -5,7 +5,7 @@
 Data Analyst passionate about turning raw data into meaningful insights.  
 I focus on solving real business problems through data analysis, visualization, and storytelling.
 
-## 🔭 Current Work
+## Current Work
 - Building end-to-end data analysis projects  
 - Creating interactive dashboards  
 - Working with real-world datasets to extract insights  
@@ -21,8 +21,8 @@ I’m open to collaborating on:
 - Dashboard development (Tableau / Power BI)  
 - Any data-driven ideas  
 
-## 🛠 Tech Stack
-- **Languages:** Python, SQL  
+## Tech Stack
+- **Languages:** Python, SQL   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - **Data Analysis:** Pandas, NumPy , Matplotlib
 - **Visualization:** Tableau, Power BI  
 - **Tools:** Excel  
