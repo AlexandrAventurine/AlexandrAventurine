@@ -2,8 +2,8 @@
 # Hi, I'm Alexandr Proseanchin 👋
 
 ##  About Me
-Data Analyst passionate about turning raw data into meaningful insights.  
-I focus on solving real business problems through data analysis, visualization, and storytelling.
+*Data Analyst passionate about turning raw data into meaningful insights.  
+I focus on solving real business problems through data analysis, visualization, and storytelling.*
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
