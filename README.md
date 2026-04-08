@@ -14,12 +14,7 @@ I focus on solving real business problems through data analysis, visualization, 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-##  What I Focus On
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data visualization & dashboards  
-- Business insights & storytelling  
----
+
 
 #⭐ *Always learning, always building, always improving*
 
