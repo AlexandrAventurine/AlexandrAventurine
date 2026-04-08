@@ -21,7 +21,7 @@ I focus on solving real business problems through data analysis, visualization, 
 - Business insights & storytelling  
 ---
 
-⭐ *Always learning, always building, always improving*
+#⭐ *Always learning, always building, always improving*
 
 <!--
 **AlexandrAventurine/AlexandrAventurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
