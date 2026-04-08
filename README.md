@@ -16,7 +16,7 @@ I focus on solving real business problems through data analysis, visualization, 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-# ⭐ *Always learning, always building, always improving*
+# *Always learning, always building, always improving*
 
 <!--
 **AlexandrAventurine/AlexandrAventurine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
