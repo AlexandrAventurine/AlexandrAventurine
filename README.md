@@ -6,8 +6,6 @@ Data Analyst passionate about turning raw data into meaningful insights.
 I focus on solving real business problems through data analysis, visualization, and storytelling.
 
 ## Tech Stack
-
-### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
