@@ -1,7 +1,7 @@
 
 # Hi, I'm Alexandr Proseanchin 👋
 
-## 🚀 About Me
+##  About Me
 Data Analyst passionate about turning raw data into meaningful insights.  
 I focus on solving real business problems through data analysis, visualization, and storytelling.
 
